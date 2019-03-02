@@ -78,3 +78,13 @@ which I tried to apply in a couple of projects: a [**cafe site**](https://romang
 
 **Offline courses**:  
 * Stormnet IT-courses(*Java core*)  
+
+
+## English level
+
+**Level**: A2    
+**Practice**  
+* English tutor at school (*2 years*)
+* Language classes:
+  * Belarusian National Technical University (*1 semester*)
+  * Minsk State Lingvestic University (*1 semester*)
