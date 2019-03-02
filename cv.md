@@ -9,8 +9,8 @@ Roman | Gorenkov
 
 **Phone:** +375 (29) 294-18-78  
 **Mail:** roman.gorenkov.one@gmail.com  
-**Skype** tornado228.5  
-**VK** https://vk.com/id200897989  
+**Skype:** tornado228.5  
+**VK:** https://vk.com/id200897989  
 
 
 ## Summary
@@ -32,7 +32,7 @@ I believe that I can be a great front-end developer. I have a passion for progra
 
 ## Code examples
 
-Examples of my code you can find on my page on [**GitHub**](https://github.com/RomanGorenkov).  
+Examples of my code you can find on my [**GitHub**](https://github.com/RomanGorenkov) page.  
 
 A small example of my code:  
 ```javascript
