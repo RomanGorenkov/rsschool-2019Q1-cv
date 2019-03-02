@@ -65,3 +65,16 @@ var count = 0;
 My experience consists of small tasks on the basic concepts of programming,  
 which I tried to apply in a couple of projects: a [**cafe site**](https://romangorenkov.github.io/maket/) and an [**IT company site**](https://romangorenkov.github.io/ResponsiveWebsite/).
 
+
+## Education
+
+**Belarusian National Technical University**: student  
+**Specialty**: Industrial robots and robotic complexes  
+
+**Online courses**:  
+* FreeCodeCamp
+* CodeCademy   
+* HTMLAcademy   
+
+**Offline courses**:  
+* Stormnet IT-courses(*Java core*)  
