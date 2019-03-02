@@ -58,3 +58,10 @@ var count = 0;
   
 };
 ```
+
+
+## Experience
+
+My experience consists of small tasks on the basic concepts of programming,  
+which I tried to apply in a couple of projects: a [**cafe site**](https://romangorenkov.github.io/maket/) and an [**IT company site**](https://romangorenkov.github.io/ResponsiveWebsite/).
+
