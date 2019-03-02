@@ -38,15 +38,23 @@ A small example of my code:
 ```javascript
 function getLoveTrianglesCount(preferences = []) {
 
-  var count = 0;
-  
+var count = 0;
+
   for (var i = 0; i < preferences.length; i++) {
   
-  	if (i + 1 == preferences[preferences[preferences[i] - 1] - 1] && preferences[preferences[i] - 1] > i && preferences[i] - 1 > i) {
+    var firstLove = preferences[i];
+    var secondLove = preferences[firstLove - 1];
+    var thirdLove = preferences[secondLove - 1];
+    
+  	if (i + 1 == thirdLove && secondLove > i && firstLove - 1 > i) {
+   
   		count++;
+    
   	}
    
   }
+  
   return count;
+  
 };
 ```
