@@ -279,6 +279,11 @@ body{
     font-family: 'Josefin Sans', sans-serif;
 }
 
+.skills{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
 .subtitle-right {
     overflow: hidden;
     text-align: center;
@@ -300,4 +305,81 @@ body{
 .subtitle-right:after {
     margin-right: -100%;
     right: -14px;
+}
+
+.skills-conteiner{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.skills-list{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+.skills-row{
+    display: flex;
+    list-style: none;
+}
+
+.skills-moved-row{
+    margin-left: -17%;
+
+}
+
+.skills-item-conteiner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60px;
+    height: 80px;
+    margin: 10px 30px;
+
+}
+
+.skills-icon{
+    text-align: center;
+    width: 30px;
+    font-size: 30px;
+    /* line-height: 30px; */
+    padding: 10px;
+    color: #343436aa;
+    background-color: #34343699;
+    border-radius: 50%;
+}
+.skills-icon:hover{
+    background-color: #34343633;
+}
+
+.fa-java:hover{
+    color: #2071a7;
+}
+
+.fa-js:hover{
+    color: #d4bc02;
+}
+
+.fa-git:hover{
+    color: #362701;
+}
+
+.fa-html5:hover{
+    color: #f16529;
+}
+
+.fa-css3:hover{
+    color: #1572b6;
+}
+
+.fa-adobe:hover{
+    color: #ed1c24;
+}
+
+
+.skills-name{
+    font-size: 20px;
+    font-family: 'Righteous', cursive;
 }
