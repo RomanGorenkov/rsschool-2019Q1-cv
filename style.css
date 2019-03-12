@@ -9,6 +9,10 @@ body{
     background-image: url(assets/img/background.png);
 }
 
+.none-style-list{
+    list-style: none;
+}
+
 .body-container{
 
     width: 1024px;
@@ -513,4 +517,146 @@ body{
 
 .project-link:hover{
     text-decoration: underline;
+}
+
+.education-container{
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0;
+    width: 100%;
+    height: 300px;;
+}
+
+.education-desc{
+    margin-left: 30px;
+    padding: 10px 0;
+    font-size: 18px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.course-container{
+    display: flex;
+    align-self: center;
+    justify-content: space-between;
+    width: 900px;
+    height: auto;
+    margin: 20px 0;
+}
+
+.course-item{
+    padding: 15px;
+}
+
+.course-desc{
+    display: inline-block;
+    font-size: 18px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 20px auto;
+}
+
+.online-course-list, .offline-course-list{
+    list-style: none;
+    display: block;
+    width: 400px;
+}
+
+.online-course-item, .offline-course-list{
+    font-size: 18px;
+    padding: 5px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.course-border-block{
+    width: 10px;
+    height: 100%;
+    background-color: #343436;
+    border-radius: 5px;
+}
+
+.english-level{
+    width: 100%;
+    height: 392px;
+}
+
+.english-level-container{
+    display: flex;
+    width: 100%;
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+}
+
+.english-level-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 900px;
+    height: auto;
+    list-style: none;
+}
+
+.english-level-item{
+    display: inline-block;
+
+}
+
+.english-level-span{
+    font-size: 25px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.english-practice-sublist{
+    padding: 0 30px;
+}
+.english-practice-item{
+    padding: 5px 0;
+    font-size: 18px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.subtitle{
+    font-size: 18px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 10px auto;
+}
+
+.english-level-border{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 50px 0 50px 86.6px;
+    border-color: transparent transparent transparent #343436;
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    width: 100%;
+    height: 120px;
+    background-color: #343436;
+}
+
+.contact-list{
+    display: flex;
+    justify-content: space-between;
+    width: 160px;
+    margin: 15px;
+}
+
+.contact-icon{
+    font-size: 30px;
+    color: white;
+}
+
+.contact-icon:hover{
+    color: #ffffff8c;
+}
+
+.contact-title{
+    color: white;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 10px;
 }
